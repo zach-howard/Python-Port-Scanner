@@ -33,7 +33,7 @@ This utility showcases specific technical decisions vital for building reliable 
 Clone the project to your local machine:
 
 ```bash
-git clone https://github.com/zach-howard/Python-Port-Scanner
+git clone https://github.com/zach-howard/Python-Port-Scanner.git
 cd Python-Port-Scanner
 ```
 
