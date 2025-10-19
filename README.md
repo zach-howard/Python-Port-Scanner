@@ -33,8 +33,8 @@ This utility showcases specific technical decisions vital for building reliable 
 Clone the project to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/RepoName.git
-cd RepoName
+git clone https://github.com/zach-howard/Python-Port-Scanner
+cd Python-Port-Scanner
 ```
 
 ### 2. Execution
